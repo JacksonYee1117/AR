@@ -1,5 +1,5 @@
-<model-viewer src="mm_lucky.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" autoplay auto-rotate>
-    <button class="Hotspot" slot="hotspot-4" data-surface="0 0 2997 2994 2981 20.620 16.895 -36.515" data-visibility-attribute="visible">
+<model-viewer src="mm_lucky.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" autoplay scale="0.1 0.1 0.1" auto-rotate>
+    <button class="Hotspot" slot="hotspot-1" data-surface="0 0 1636 1698 1722 -34.576 92.388 -56.812" data-visibility-attribute="visible">
         <div class="HotspotAnnotation">四葉幸運草</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
